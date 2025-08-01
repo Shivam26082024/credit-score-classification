@@ -73,7 +73,7 @@ This model can be used by:
 ## 👨‍💻 Author
 
 **Shivam Soni** — Aspiring Data Scientist | PGP-DSE @ Great Learning  
-📧 [LinkedIn Profile] (www.linkedin.com/in/shivam-soni-481430344)
+📧 [LinkedIn Profile] (www.linkedin.com/in/shivam-soni-data)
 
 ---
 
